@@ -1,0 +1,19 @@
+{
+  "name": "JSCodeCracker",
+  "version": "1.0.0",
+  "description": "Освітній CrackMe-проект на JavaScript для практики реверс-інжинірингу.",
+  "main": "JSCodeCracker.js",
+  "scripts": {
+    "start": "node JSCodeCracker.js"
+  },
+  "keywords": [
+    "CrackMe",
+    "JavaScript",
+    "Node.js",
+    "Reverse Engineering",
+    "Security"
+  ],
+  "author": "Ваше Ім'я",
+  "license": "MIT",
+  "dependencies": {}
+}
